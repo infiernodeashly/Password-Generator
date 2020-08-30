@@ -2,6 +2,13 @@
 
 The instructions for this assignment are below. Basically, we are creating a password generator that is based off of parameters selected by the user. However, there are still specific parameters that must meet with their generated password.
 
+You can find my project GitHub here: https://github.com/infiernodeashly/Password-Generator
+You can find my project URL here: https://infiernodeashly.github.io/Password-Generator/
+
+please see image named "screenshot" in here:  https://github.com/infiernodeashly/Password-Generator
+
+![image](https://user-images.githubusercontent.com/68360119/91649761-5224ae00-ea45-11ea-9870-cf4ea13007c7.png)
+
 
 --
 
